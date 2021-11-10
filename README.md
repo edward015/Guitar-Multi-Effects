@@ -8,4 +8,4 @@ These variations were due to remote learning being in effect and our remote loca
 
 
 
-this
+This was completed on the NUCLEO-H743ZI2 board in conjuction with the STM32CUBE IDE. 
